@@ -2,7 +2,7 @@
 title: Government 
 author: Frederic Bastiat 
 
-layout: article
+layout: default
 ---
 
 I wish some one would offer a prize for a good, simple, and intelligent

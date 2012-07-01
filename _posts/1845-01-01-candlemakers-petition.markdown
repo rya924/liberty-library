@@ -1,6 +1,7 @@
 ---
 title: A Petition From the Manufacturers of Candles, Tapers, Lanterns, sticks, Street Lamps, Snuffers, and Extinguishers, and from Producers of Tallow, Oil, Resin, Alcohol, and Generally of Everything Connected with Lighting.
 author: Frederic Bastiat
+layout: default
 ---
 
 **To the Honourable Members of the Chamber of Deputies.**

@@ -1,7 +1,7 @@
 ---
 title: That Which is Seen, and That Which is Not Seen
 author: Frederic Bastiat
-layout: article
+layout: default
 ---
 
 In the department of economy, an act, a habit, an

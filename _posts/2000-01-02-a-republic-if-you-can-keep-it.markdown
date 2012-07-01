@@ -1,8 +1,7 @@
 ---
 title: A Republic, If You Can Keep It
 author: Ron Paul
-
-layout: article
+layout: default
 ---
 
 ## Introduction
